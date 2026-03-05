@@ -5,3 +5,4 @@ MinecraftConsoles-141217 is a backup from December 17th, 2014.
 Note:  
 -I do not take any responsability about what is done with this code.  
 -Use mc_console-oct2024 to launch Minecraft
+-Need to use visual code studio 2012 go on mc_console-oct2024 and launch the sln with visual and select release and windows64 (durango to windows64) and look to the Minecraft Client at the right and you need to right click debug and create a new instance.
